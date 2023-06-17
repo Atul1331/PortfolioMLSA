@@ -32,18 +32,14 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Lithium 2k22",
-    description:
-      "It is the official college fresher website for the 2022 incoming batch.",
+    description: "It is the official college fresher website for the 2022 incoming batch.",
     url: "https://lithium2k22.ml//",
   },
   {
     title: "Shoe Store",
-    description:
-      "It is a modern and interactive shoe store website built using HTML, CSS and JS. ",
+    description: "It is a modern and interactive shoe store website built using HTML, CSS and JS. ",
     url: "https://atul1331.github.io/Shoe-Store/",
   },
-  
-  
 ];
 
 const Portfolio = () => {
